@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(017.png);
   background-size: cover;
-  color:#3b5998;
+  color:white;
   text-align: center;
 }
 
@@ -29,12 +29,14 @@ a {
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
+  color :blue;
 }
 
 .top-wrapper p {
   opacity: 0.7;
   font-size: 16px;
   margin-bottom: 40px;
+  color :blue;
 }
 
 .btn-wrapper {
